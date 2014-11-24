@@ -1,4 +1,4 @@
-soils
+﻿soils
 =========
 
 -[the ecological condition of soils] (http://gossmi.ru/page/gos1_990.htm)
@@ -14,3 +14,4 @@ soils
 - [Выбросы в атмосферу](http://www.ecounion.ru/ru/site.php?blockType=253) || by Olga Malozemova
 - [Особо охраняемые природные территории Санкт-Петербурга](http://www.infoeco.ru/index.php?id=57) || by Marina Petrova
 - [Терминалы приема опасных отходов ](http://www.infoeco.ru/ecomobile/index.php?id=40) || by Marina Petrova
+- [Сайт с архивом погоды, можно выкачать сразу в эксель](http://rp5.ru/) by Gut
